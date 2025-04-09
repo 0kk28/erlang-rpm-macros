@@ -25,7 +25,6 @@ Requires:	python3-rpm
 %description
 Macros for simplifying building of Erlang packages.
 
-
 %prep
 %autosetup -p1 -n erlang-rpm-macros-master
 
